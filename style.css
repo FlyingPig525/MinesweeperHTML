@@ -1,0 +1,19 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+h1 {
+  font-size: 5rem;
+}
+
+#boxWrapper {
+  display: grid;
+}
+
+#cell {
+  width: 10px;
+  height: 10px;
+  border-radius: 20%;
+  
+}
